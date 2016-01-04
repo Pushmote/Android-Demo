@@ -22,4 +22,4 @@ Don't hesitate to ask for help from <a href="https://dashboard.pushmote.com/comm
 
 Version
 ----
-2.1.2
+2.2.0
